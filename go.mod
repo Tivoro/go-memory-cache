@@ -1,4 +1,4 @@
-module memcache
+module github.com/Tivoro/go-memcache
 
 go 1.24.6
 
